@@ -1,0 +1,27 @@
+Homicide type,Method of killing,Number of victims,Number of female victims,Number of male victims,Percentage of victims,Percentage of female victims,Percentage of male victims
+Victims domestic homicides,Total aged 16 and over,353,231,122,100,100,100
+Victims domestic homicides,Sharp instrument,193,120,73,54.6742209631728,51.94805194805194,59.83606557377049
+Victims domestic homicides,"Strangulation, asphyxiation",47,36,11,13.314447592067987,15.584415584415584,9.01639344262295
+Victims domestic homicides,"Hitting, kicking, etc.",31,14,17,8.78186968838527,6.0606060606060606,13.934426229508196
+Victims domestic homicides,Blunt instrument,34,28,6,9.631728045325778,12.121212121212121,4.918032786885246
+Victims domestic homicides,Shooting,11,8,3,3.1161473087818696,3.463203463203463,2.459016393442623
+Victims domestic homicides,Burning,9,8,1,2.5495750708215295,3.463203463203463,0.819672131147541
+Victims domestic homicides,Drowning,0,0,0,0,0,0
+Victims domestic homicides,Poison or drugs,0,0,0,0,0,0
+Victims domestic homicides,Motor vehicle [note 4],3,1,2,0.84985835694051,0.4329004329004329,1.639344262295082
+Victims domestic homicides,Explosion,0,0,0,0,0,0
+Victims domestic homicides,Other,10,6,4,2.8328611898017,2.5974025974025974,3.278688524590164
+Victims domestic homicides,Not known,15,10,5,4.2492917847025495,4.329004329004329,4.098360655737705
+Victims non-domestic homicides,Total aged 16 and over,875,108,767,100,100,100
+Victims non-domestic homicides,Sharp instrument,464,38,426,53.028571428571425,35.18518518518518,55.54106910039114
+Victims non-domestic homicides,"Strangulation, asphyxiation",31,18,13,3.5428571428571427,16.666666666666664,1.694915254237288
+Victims non-domestic homicides,"Hitting, kicking, etc.",184,10,174,21.02857142857143,9.25925925925926,22.685788787483702
+Victims non-domestic homicides,Blunt instrument,56,12,44,6.4,11.11111111111111,5.736636245110821
+Victims non-domestic homicides,Shooting,46,4,42,5.257142857142857,3.7037037037037033,5.475880052151238
+Victims non-domestic homicides,Burning,13,4,9,1.4857142857142858,3.7037037037037033,1.1734028683181226
+Victims non-domestic homicides,Drowning,9,1,8,1.0285714285714285,0.9259259259259258,1.0430247718383312
+Victims non-domestic homicides,Poison or drugs,6,1,5,0.6857142857142857,0.9259259259259258,0.651890482398957
+Victims non-domestic homicides,Motor vehicle [note 4],32,6,26,3.6571428571428575,5.555555555555555,3.389830508474576
+Victims non-domestic homicides,Explosion,0,0,0,0,0,0
+Victims non-domestic homicides,Other,12,2,10,1.3714285714285714,1.8518518518518516,1.303780964797914
+Victims non-domestic homicides,Not known,22,12,10,2.5142857142857142,11.11111111111111,1.303780964797914

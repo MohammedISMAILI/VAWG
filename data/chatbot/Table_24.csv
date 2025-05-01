@@ -1,0 +1,15 @@
+Outcome,Outcome breakdown,"Number
+All principal suspects","Number
+Female principal suspects","Number
+Male principal suspects"
+Decided at court to be homicide,Murder,160,21,139
+Decided at court to be homicide,Sec 2 Manslaughter,44,4,40
+Decided at court to be homicide,Other Manslaughter,45,11,34
+Decided at court to be homicide,Total,249,36,213
+Court decision pending,Court decision pending,47,7,40
+Proceedings not initiated or concluded without conviction or acquittal,Suspect found by the court to be insane,12,1,11
+Proceedings not initiated or concluded without conviction or acquittal,Suspect died,5,0,5
+Proceedings not initiated or concluded without conviction or acquittal,Suspect committed suicide,38,2,36
+Proceedings not initiated or concluded without conviction or acquittal,"Proceedings discontinued, not initiated or all suspects acquitted",2,0,2
+Proceedings not initiated or concluded without conviction or acquittal,Total,57,3,54
+Total offences currently recorded as homicide ,Total offences currently recorded as homicide,353,46,307

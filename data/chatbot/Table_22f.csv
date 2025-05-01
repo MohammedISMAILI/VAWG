@@ -1,0 +1,13 @@
+Homicide type,Sex of suspect [note 4],"Number
+All","Number
+Female","Number
+Male","Percentage
+All victims","Percentage 
+Female victims","Percentage 
+Male victims"
+Victims domestic homicides,All,353,231,122,100,100,100
+Victims domestic homicides,Female,46,7,39,13.031161473087819,3.0303030303030303,31.967213114754102
+Victims domestic homicides,Male,307,224,83,86.96883852691218,96.96969696969697,68.0327868852459
+Victims non-domestic homicides,All [note 5],875,108,767,100,100,100
+Victims non-domestic homicides,Female,27,10,17,3.085714285714286,9.25925925925926,2.216427640156454
+Victims non-domestic homicides,Male,847,98,749,96.8,90.74074074074075,97.65319426336376

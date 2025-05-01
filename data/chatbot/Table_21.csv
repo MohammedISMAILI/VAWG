@@ -1,0 +1,67 @@
+Area code,Name,Geography,"Domestic homicides
+All victims aged 16 year and over","Non domestic homicides
+All victims aged 16 year and over","No suspect
+All victims aged 16 year and over [note 3][note 4]",All victims aged under 16 years,All victims,"Domestic homicides
+Female victims aged 16 year and over","Non domestic homicides
+Female victims aged 16 year and over","No suspect
+Female victims aged 16 year and over
+[note 3][note 4]",All female victims aged under 16 years,All female victims,"Domestic homicides
+male victims aged 16 year and over","Non domestic homicides
+male victims aged 16 year and over","No suspect
+male victims aged 16 year and over
+[note 3][note 4]",All male victims aged under 16 years,All male victims
+K04000001,England and Wales,Country,353,875,436,165,1831,231,108,124,57,521,122,767,312,107,1308
+E12000001,North East ,Region,12,44,21,9,86,6,5,4,4,19,6,39,17,5,67
+E23000013,Cleveland,Police force area,0,13,11,3,27,0,2,1,1,4,0,11,10,2,23
+E23000008,Durham,Police force area,3,4,4,2,13,2,2,1,1,6,1,2,3,1,7
+E23000007,Northumbria,Police force area,9,27,6,4,46,4,1,2,2,9,5,26,4,2,37
+E12000002,North West ,Region,47,101,81,30,259,30,10,25,11,76,17,91,56,18,182
+E23000006,Cheshire,Police force area,3,7,2,3,15,1,2,1,2,6,2,5,1,1,9
+E23000002,Cumbria,Police force area,3,4,4,2,13,2,0,3,0,5,1,4,1,2,8
+E23000005,Greater Manchester,Police force area,18,49,47,10,124,13,2,13,3,31,5,47,34,7,93
+E23000003,Lancashire [note 5],Police force area,7,22,9,12,50,5,4,1,4,14,2,18,8,7,35
+E23000004,Merseyside,Police force area,16,19,19,3,57,9,2,7,2,20,7,17,12,1,37
+E12000003,Yorkshire and the Humber ,Region,37,89,40,10,176,27,6,9,2,44,10,83,31,8,132
+E23000012,Humberside,Police force area,6,16,5,1,28,4,0,2,0,6,2,16,3,1,22
+E23000009,North Yorkshire,Police force area,5,11,2,0,18,3,1,0,0,4,2,10,2,0,14
+E23000011,South Yorkshire,Police force area,10,31,11,3,55,7,3,3,0,13,3,28,8,3,42
+E23000010,West Yorkshire,Police force area,16,31,22,6,75,13,2,4,2,21,3,29,18,4,54
+E12000004,East Midlands ,Region,30,61,24,21,136,21,6,4,6,37,9,55,20,15,99
+E23000018,Derbyshire,Police force area,2,10,7,8,27,2,2,0,2,6,0,8,7,6,21
+E23000021,Leicestershire,Police force area,10,15,5,1,31,6,0,2,0,8,4,15,3,1,23
+E23000020,Lincolnshire,Police force area,7,13,3,5,28,5,0,0,1,6,2,13,3,4,22
+E23000022,Northamptonshire,Police force area,5,9,6,4,24,4,0,2,1,7,1,9,4,3,17
+E23000019,Nottinghamshire,Police force area,6,14,3,3,26,4,4,0,2,10,2,10,3,1,16
+E12000005,West Midlands ,Region,42,110,65,17,235,24,14,24,6,69,18,96,41,11,166
+E23000015,Staffordshire,Police force area,7,12,12,3,34,5,4,6,2,17,2,8,6,1,17
+E23000017,Warwickshire,Police force area,1,6,10,1,18,1,3,5,1,10,0,3,5,0,8
+E23000016,West Mercia ,Police force area,9,13,31,3,57,8,1,13,1,24,1,12,18,2,33
+E23000014,West Midlands,Police force area,25,79,12,10,126,10,6,0,2,18,15,73,12,8,108
+E12000006,East of England ,Region,44,80,44,7,176,30,10,20,4,64,14,70,24,3,111
+E23000026,Bedfordshire,Police force area,4,14,9,1,28,2,2,6,0,10,2,12,3,1,18
+E23000023,Cambridgeshire,Police force area,11,13,3,0,27,5,2,2,0,9,6,11,1,0,18
+E23000028,Essex,Police force area,13,30,14,2,59,9,1,4,0,14,4,29,10,2,45
+E23000027,Hertfordshire,Police force area,8,5,6,0,19,6,1,2,0,9,2,4,4,0,10
+E23000024,Norfolk,Police force area,5,13,3,2,23,5,4,3,2,14,0,9,0,0,9
+E23000025,Suffolk [note 6],Police force area,3,5,9,2,20,3,0,3,2,8,0,5,6,0,11
+E12000007,London ,Region,62,208,63,41,374,41,26,8,11,86,21,182,55,30,288
+E23000034,"London, City Of",Police force area,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1
+E23000001,Metropolitan Police ,Police force area,62,207,63,41,373,41,26,8,11,86,21,181,55,30,287
+E12000008,South East ,Region,31,87,35,13,166,20,12,9,5,46,11,75,26,8,120
+E23000030,Hampshire,Police force area,4,16,15,1,36,2,3,5,0,10,2,13,10,1,26
+E23000032,Kent,Police force area,6,19,10,6,41,5,2,1,3,11,1,17,9,3,30
+E23000031,Surrey,Police force area,2,7,0,1,10,1,1,0,1,3,1,6,0,0,7
+E23000033,Sussex,Police force area,8,9,5,3,25,7,2,2,1,12,1,7,3,2,13
+E23000029,Thames Valley,Police force area,11,36,5,2,54,5,4,1,0,10,6,32,4,2,44
+E12000009,South West ,Region,30,60,42,11,143,18,13,15,6,52,12,47,27,5,91
+E23000036,Avon and Somerset,Police force area,9,21,18,3,51,4,2,5,0,11,5,19,13,3,40
+E23000035,Devon and Cornwall,Police force area,12,18,10,3,43,8,7,4,2,21,4,11,6,1,22
+E23000039,Dorset,Police force area,3,10,2,0,15,1,3,1,0,5,2,7,1,0,10
+E23000037,Gloucestershire,Police force area,4,6,11,3,24,3,1,5,3,12,1,5,6,0,12
+E23000038,Wiltshire,Police force area,2,5,1,2,10,2,0,0,1,3,0,5,1,1,7
+W92000004,Wales,Region,18,30,20,6,74,14,6,6,2,28,4,24,14,4,46
+W15000004,Dyfed Powys,Police force area,5,4,6,1,16,4,2,3,1,10,1,2,3,0,6
+W15000002,Gwent,Police force area,5,6,4,0,15,5,0,0,0,5,0,6,4,0,10
+W15000001,North Wales,Police force area,4,8,4,2,18,3,1,1,1,6,1,7,3,1,12
+W15000003,South Wales,Police force area,4,12,6,3,25,2,3,2,0,7,2,9,4,3,18
+,British Transport Police,,0,5,1,0,6,0,0,0,0,0,0,5,1,0,6

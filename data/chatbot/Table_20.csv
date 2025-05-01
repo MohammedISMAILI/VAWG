@@ -1,0 +1,55 @@
+Area code,Name,Geography,Total number of coercive control offences
+K04000001,England and Wales ,Country,45310
+E12000001,North East,Region,1641
+E23000013,Cleveland,Police Force Area,482
+E23000008,Durham,Police Force Area,482
+E23000007,Northumbria,Police Force Area,677
+E12000002,North West,Region,7011
+E23000006,Cheshire,Police Force Area,1466
+E23000002,Cumbria,Police Force Area,350
+E23000005,Greater Manchester,Police Force Area,3325
+E23000003,Lancashire,Police Force Area,942
+E23000004,Merseyside,Police Force Area,928
+E12000003,Yorkshire and the Humber,Region,5943
+E23000012,Humberside,Police Force Area,645
+E23000009,North Yorkshire,Police Force Area,727
+E23000011,South Yorkshire,Police Force Area,1144
+E23000010,West Yorkshire,Police Force Area,3427
+E12000004,East Midlands,Region,5094
+E23000018,Derbyshire,Police Force Area,977
+E23000021,Leicestershire,Police Force Area,1444
+E23000020,Lincolnshire,Police Force Area,1479
+E23000022,Northamptonshire,Police Force Area,346
+E23000019,Nottinghamshire,Police Force Area,848
+E12000005,West Midlands,Region,5945
+E23000015,Staffordshire,Police Force Area,1225
+E23000017,Warwickshire,Police Force Area,358
+E23000016,West Mercia,Police Force Area,608
+E23000014,West Midlands,Police Force Area,3754
+E12000006,East of England,Region,3299
+E23000026,Bedfordshire,Police Force Area,417
+E23000023,Cambridgeshire,Police Force Area,361
+E23000028,Essex,Police Force Area,1110
+E23000027,Hertfordshire,Police Force Area,478
+E23000024,Norfolk,Police Force Area,630
+E23000025,Suffolk,Police Force Area,303
+E12000007,London,Region,3860
+E23000034,"London, City of",Police Force Area,14
+E23000001,Metropolitan Police,Police Force Area,3846
+E12000008,South East,Region,6046
+E23000030,Hampshire,Police Force Area,725
+E23000032,Kent,Police Force Area,2382
+E23000031,Surrey,Police Force Area,721
+E23000033,Sussex,Police Force Area,843
+E23000029,Thames Valley,Police Force Area,1375
+E12000009,South West,Region,3790
+E23000036,Avon and Somerset,Police Force Area,1550
+E23000035,Devon and Cornwall,Police Force Area,670
+E23000039,Dorset,Police Force Area,191
+E23000037,Gloucestershire,Police Force Area,1058
+E23000038,Wiltshire,Police Force Area,321
+W92000004,Wales,Region,2681
+W15000004,Dyfed-Powys,Police Force Area,622
+W15000002,Gwent,Police Force Area,299
+W15000001,North Wales,Police Force Area,1121
+W15000003,South Wales,Police Force Area,639
